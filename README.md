@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Erick%20Ramírez&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Desarrollador%20Semi-Full%20Stack&descAlignY=65&descAlign=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Erick%20Ramírez&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Desarrollador%20Full%20Stack&descAlignY=65&descAlign=50" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Desarrollador+Semi-Full+Stack;Venezolano+Optimista;Creador+de+Librerías+JavaScript;Apasionado+por+la+Tecnología" alt="Typing SVG" />
 
