@@ -8,7 +8,7 @@
 
 ## 🚀 Sobre Mí
 
-¡Saludos! Soy un **Desarrollador semi-full stack** con una mentalidad optimista y una pasión inquebrantable por la tecnología. Me especializo en crear soluciones web modernas y eficientes, desde el frontend hasta el backend.
+¡Saludos! Soy un **Desarrollador full stack** con una mentalidad optimista y una pasión inquebrantable por la tecnología. Me especializo en crear soluciones web modernas y eficientes, desde el frontend hasta el backend.
 
 > *"La tecnología no tiene fronteras, y tampoco mis sueños"* 🌟
 
