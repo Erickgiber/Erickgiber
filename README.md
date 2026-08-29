@@ -1,82 +1,91 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Erick%20Ramírez&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Desarrollador%20Full%20Stack&descAlignY=65&descAlign=50" />
+<!-- Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Erick%20Ram%C3%ADrez&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Open%20Source%20Creator&descAlignY=62&descAlign=50" width="100%" alt="Erick Ramírez Header" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Desarrollador+Full+Stack;Venezolano+Optimista;Creador+de+Librerías+JavaScript;Apasionado+por+la+Tecnología" alt="Typing SVG" />
+<!-- Typing Animation -->
+<a href="https://github.com/Erickgiber">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=Desarrollador+Full+Stack+%26+Mobile;Creador+del+Framework+CanvApps;Autor+de+la+Librer%C3%ADa+ShareDOM;Creador+de+WalletTrack+en+Google+Play;Apasionado+por+el+Open+Source" alt="Typing SVG" />
+</a>
+
+<p align="center">
+  <a href="https://github.com/Erickgiber?tab=followers"><img src="https://img.shields.io/github/followers/Erickgiber?label=Seguidores&style=flat-square&color=3B82F6&logo=github" alt="Followers" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Erickgiber&label=Visitas%20al%20Perfil&color=3B82F6&style=flat-square" alt="Profile views" />
+  <a href="https://erickgiber.vercel.app/"><img src="https://img.shields.io/badge/Portafolio-erickgiber.vercel.app-10B981?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+</p>
 
 </div>
-
-## 🚀 Sobre Mí
-
-¡Saludos! Soy un **Desarrollador full stack** con una mentalidad optimista y una pasión inquebrantable por la tecnología. Me especializo en crear soluciones web modernas y eficientes, desde el frontend hasta el backend.
-
-> *"La tecnología no tiene fronteras, y tampoco mis sueños"* 🌟
-
-### 🎯 ¿Qué hago?
-- 💻 Desarrollo aplicaciones web modernas con **Svelte**, **React** y **Angular**
-- 🛠️ Creo librerías JavaScript que simplifican el desarrollo
-- 🎨 Diseño interfaces de usuario intuitivas y responsivas
-- 🔧 Construyo APIs robustas con **Node.js** y **Express**
-- 📱 Experimento con nuevas tecnologías y frameworks
 
 ---
 
-## 📊 Mis Estadísticas en GitHub
+## 🚀 Sobre Mí
 
-<div align="center">
+¡Hola! 👋 Soy **Erick Ramírez**, Desarrollador Full Stack con enfoque en la creación de herramientas para desarrolladores, librerías modernas y aplicaciones web/móviles eficientes. Me encanta resolver problemas complejos y transformar ideas en productos open source funcionales y de alto rendimiento.
 
-### 📈 Resumen de Actividad
+> 🌟 *"La tecnología no tiene fronteras, y tampoco mis sueños."*
 
-<table align="center">
+- 📱 **Desarrollo Móvil:** Creador de **WalletTrack: Control de Gastos** disponible en Google Play.
+- 🎨 **Frameworks & Canvas:** Desarrollador de **CanvApps**, framework para aplicaciones interactivas en Canvas.
+- 📸 **Ecosistema DOM:** Autor de **ShareDOM**, librería para captura y snapshots de DOM ultraligera (NPM / SSR ready).
+- 🛠️ **Stack Principal:** TypeScript, JavaScript, Svelte / SvelteKit, React, Node.js, Express.
+- 🇻🇪 Desarrollador apasionado por el impacto tecnológico y el código abierto.
+
+---
+
+## 🏆 Proyectos & Ecosistema Destacado
+
+<table align="center" width="100%">
 <tr>
-<td align="center">
-<img src="https://img.shields.io/badge/Repositorios-27-blue?style=for-the-badge&logo=github&logoColor=white" alt="Repositorios"/>
+<td width="50%" valign="top">
+
+### 📱 WalletTrack: Control de Gastos
+> Aplicación móvil para gestión de finanzas personales, presupuestos y control inteligente de gastos diarios.
+
+- **Plataforma:** Android (Google Play)
+- **Estado:** Publicado en tienda
+
+[![Google Play](https://img.shields.io/badge/Google_Play-WalletTrack-00875A?style=for-the-badge&logo=google-play&logoColor=white)]([https://play.google.com/store/search?q=WalletTrack%20Control%20de%20Gastos&c=apps](https://play.google.com/store/apps/details?id=com.wallettrack.giber))
+
 </td>
-<td align="center">
-<img src="https://img.shields.io/badge/Pull_Requests-3-green?style=for-the-badge&logo=git&logoColor=white" alt="Pull Requests"/>
+<td width="50%" valign="top">
+
+### 🎨 CanvApps Framework
+> Framework moderno diseñado para construir aplicaciones visuales, interactivas y ricas basadas en Canvas HTML5.
+
+- **Stack:** JavaScript / TypeScript, Canvas API
+- **Repo:** [github.com/Erickgiber/CanvApps](https://github.com/Erickgiber/CanvApps)
+
+[![GitHub Repo](https://img.shields.io/badge/Ver_Repositorio-CanvApps-3B82F6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Erickgiber/CanvApps)
+
 </td>
-<td align="center">
-<img src="https://img.shields.io/badge/Estrellas_Ganadas-40+-yellow?style=for-the-badge&logo=star&logoColor=white" alt="Estrellas"/>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📸 ShareDOM
+> Librería ultraligera y rápida para capturar snapshots y screenshots del DOM para Browser y SSR (Next.js, SvelteKit).
+
+- **NPM Package:** `sharedom`
+- **Docs & Demo:** [erickgiber.github.io/sharedom](https://erickgiber.github.io/sharedom/)
+
+[![ShareDOM Repo](https://img.shields.io/badge/GitHub-ShareDOM-6366F1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Erickgiber/sharedom)
+[![Demo](https://img.shields.io/badge/Live-Demo%20%26%20Docs-10B981?style=for-the-badge&logo=githubpages&logoColor=white)](https://erickgiber.github.io/sharedom/)
+
+</td>
+<td width="50%" valign="top">
+
+### 🌟 GbodyJS & Templates
+> Librería para manipulación dinámica del DOM y plantillas para Single Page Applications en Svelte.
+
+- **GbodyJS:** [Repo GbodyJS](https://github.com/Erickgiber/GbodyJS) (17 ⭐)
+- **Svelte SPA:** [Template Svelte](https://github.com/Erickgiber/svelte-spa-template) (9 ⭐)
+
+[![GbodyJS](https://img.shields.io/badge/GitHub-GbodyJS-3B82F6?style=for-the-badge&logo=javascript&logoColor=white)](https://github.com/Erickgiber/GbodyJS)
+[![Svelte SPA](https://img.shields.io/badge/Svelte-SPA_Template-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)](https://github.com/Erickgiber/svelte-spa-template)
+
 </td>
 </tr>
 </table>
-
-### 🏆 Proyectos Destacados
-
-<table align="center">
-<tr>
-<td align="center" width="50%">
-
-**🌟 GbodyJS** - 17 ⭐  
-*Librería JavaScript para manipulación dinámica del DOM*  
-[![Repo](https://img.shields.io/badge/Ver_Repositorio-blue?style=flat-square&logo=github)](https://github.com/Erickgiber/GbodyJS)
-
-</td>
-<td align="center" width="50%">
-
-**⚡ Svelte SPA Template** - 9 ⭐  
-*Template moderno para aplicaciones SPA con Svelte*  
-[![Repo](https://img.shields.io/badge/Ver_Repositorio-blue?style=flat-square&logo=github)](https://github.com/Erickgiber/svelte-spa-template)
-
-</td>
-</tr>
-</table>
-
-### 📊 Estadísticas Generales
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Erickgiber&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=ffffff)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Erickgiber&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=ffffff)
-
-### 🔥 Racha de Contribuciones
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Erickgiber&theme=tokyonight&hide_border=true&background=0D1117&stroke=3B82F6&ring=3B82F6&fire=FFD700&currStreakLabel=3B82F6)
-
-### 📈 Gráfico de Actividad
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Erickgiber&theme=tokyo-night&bg_color=0D1117&color=3B82F6&line=3B82F6&point=FFD700&area=true&hide_border=true)
-
-</div>
 
 ---
 
@@ -84,66 +93,85 @@
 
 <div align="center">
 
-### Frontend
+### Lenguajes & Tipado
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Svelte](https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Frontend & UI
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-
-### Styling
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Sass](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+### Backend, Mobile & Entorno
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)
 
-### Herramientas
+### Herramientas, Build & Testing
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
 
 ---
 
-## 🏅 Logros y Reconocimientos
+## 📊 Estadísticas de GitHub
 
 <div align="center">
 
-<table>
+<table align="center" border="0">
 <tr>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/Creador_de-GbodyJS-blue?style=for-the-badge&logo=javascript&logoColor=white" />
-<br><b>17 ⭐ en GitHub</b>
+<td align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Erickgiber&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=ffffff" alt="GitHub Stats" />
 </td>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/Template_Author-Svelte_SPA-green?style=for-the-badge&logo=svelte&logoColor=white" />
-<br><b>9 ⭐ en GitHub</b>
-</td>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/Activo_desde-2021-purple?style=for-the-badge&logo=github&logoColor=white" />
-<br><b>3+ años de experiencia</b>
+<td align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erickgiber&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=ffffff" alt="Top Languages" />
 </td>
 </tr>
 </table>
 
+### 🔥 Racha de Contribuciones & Actividad
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Erickgiber&theme=tokyonight&hide_border=true&background=0D1117&stroke=3B82F6&ring=3B82F6&fire=FFD700&currStreakLabel=3B82F6)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Erickgiber&theme=tokyo-night&bg_color=0D1117&color=3B82F6&line=3B82F6&point=FFD700&area=true&hide_border=true)
+
+### 🏆 Trofeos
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Erickgiber&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)
+
 </div>
 
 ---
 
-## 🌟 Proyectos Recientes
+## 🌟 Otros Proyectos & Demos
 
 <div align="center">
 
-| Proyecto | Descripción | Tecnologías | Demo |
-|----------|-------------|-------------|------|
-| **Debts My Clients** | Sistema de gestión de deudas de clientes | Svelte, TypeScript | [🚀 Ver](https://debts-my-clients.vercel.app) |
-| **Audio Giber** | Librería para simplificar audio en JavaScript | JavaScript | [🎵 Ver](https://audiogiber.site) |
-| **WAOS-JS** | Librería para manejo de estados en vanilla JS | JavaScript | [⚡ Ver](https://waos-js.vercel.app/) |
-| **TextSnap** | Aplicación de edición de texto | React, CSS | [✏️ Ver](https://textsnap.netlify.app/) |
+| Proyecto | Descripción | Tecnologías | Enlace |
+|:---|:---|:---:|:---:|
+| **Debts My Clients** | Sistema integral para la gestión de cuentas y deudas de clientes | Svelte, TypeScript | [🚀 Abrir Demo](https://debts-my-clients.vercel.app) |
+| **Audio Giber** | Librería ligera para simplificar el manejo de audio en web | JavaScript | [🎵 Visitar](https://audiogiber.site) |
+| **WAOS-JS** | Micro-librería para manejo de estados en Vanilla JS | JavaScript | [⚡ Ver Demo](https://waos-js.vercel.app/) |
+| **TextSnap** | Editor y procesador de texto rápido en el navegador | React, CSS3 | [✏️ Probar](https://textsnap.netlify.app/) |
+
+</div>
+
+---
+
+## 🐍 Contribuciones
+
+<div align="center">
+
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
 
 </div>
 
@@ -153,41 +181,14 @@
 
 <div align="center">
 
-¿Tienes una idea genial? ¿Quieres colaborar en un proyecto? ¡Me encantaría escucharte!
+¿Tienes una idea, propuesta de proyecto o quieres colaborar en alguna librería? ¡Hablemos!
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://erickgiber.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Erickgiber)
+[![Portafolio](https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://erickgiber.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Erickgiber)
+[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.wallettrack.giber)
 
-<img src="https://komarev.com/ghpvc/?username=Erickgiber&label=Visitantes&color=3B82F6&style=for-the-badge" alt="Profile views" />
+<br/>
 
-</div>
-
----
-
-<div align="center">
-
-### 💭 Pensamiento del Día
-
-*"Cada línea de código es una oportunidad para crear algo extraordinario. Como venezolano, llevo en mi corazón la pasión y la esperanza que me impulsan a seguir construyendo un futuro mejor a través de la tecnología."*
-
-### 🏆 Trofeos de GitHub
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Erickgiber&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)
-
----
-
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-
-### 🎯 Objetivos 2025-2026
-- 🚀 Contribuir a más proyectos de código abierto
-- 📚 Dominar nuevas tecnologías como Rust y Go  
-- 🌍 Conectar con desarrolladores de todo el mundo
-- 💡 Crear herramientas que simplifiquen el desarrollo web
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=¡Gracias%20por%20visitar!&fontSize=30&fontColor=fff&animation=twinkling" />
-
-**⭐ ¡Gracias por visitar mi perfil! ⭐**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=%C2%A1Gracias%20por%20visitar%20mi%20perfil!&fontSize=28&fontColor=fff&animation=twinkling" width="100%" />
 
 </div>
