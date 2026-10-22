@@ -11,7 +11,7 @@
 <p align="center">
   <a href="https://github.com/Erickgiber?tab=followers"><img src="https://img.shields.io/github/followers/Erickgiber?label=Seguidores&style=flat-square&color=3B82F6&logo=github" alt="Followers" /></a>
   <img src="https://komarev.com/ghpvc/?username=Erickgiber&label=Visitas%20al%20Perfil&color=3B82F6&style=flat-square" alt="Profile views" />
-  <a href="https://erickgiber.vercel.app/"><img src="https://img.shields.io/badge/Portafolio-erickgiber.vercel.app-10B981?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://erickgiber.com/"><img src="https://img.shields.io/badge/Portafolio-erickgiber.com-10B981?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 </p>
 
 </div>
@@ -183,7 +183,7 @@
 
 ¿Tienes una idea, propuesta de proyecto o quieres colaborar en alguna librería? ¡Hablemos!
 
-[![Portafolio](https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://erickgiber.vercel.app/)
+[![Portafolio](https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://erickgiber.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Erickgiber)
 [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.wallettrack.giber)
 
